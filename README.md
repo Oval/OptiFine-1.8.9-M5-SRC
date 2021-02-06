@@ -11,4 +11,4 @@ Decompiled source code of OptiFine 1.8.9 M5
 6) Launch your IDE and start modding!
 
 
-**Not affiliated with Mojang nor OptiFine
+**Not affiliated with Mojang nor OptiFine**
