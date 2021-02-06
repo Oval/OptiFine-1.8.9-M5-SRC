@@ -10,4 +10,5 @@ Decompiled source code of OptiFine 1.8.9 M5
 5) Once finishes, open the **src\minecraft** folder and delete it's contents. Extract the OptiFine SRC zip in that folder.
 6) Launch your IDE and start modding!
 
-######Not affiliated with Mojang nor OptiFine
+
+**Not affiliated with Mojang nor OptiFine
